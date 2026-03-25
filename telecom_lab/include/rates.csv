@@ -1,0 +1,4 @@
+call_type_id,call_type_name,rate_per_min
+1,Local,0.5
+2,International,5.0
+3,Roaming,12.0
